@@ -1,0 +1,10 @@
+# 드래프트 협업 메타 문서 (작업용 내부 지침·세션 인수인계)
+CLAUDE.md
+CONTINUE.md
+
+# OS / 에디터 artifacts
+.DS_Store
+*.swp
+*~
+.vscode/
+.idea/
